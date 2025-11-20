@@ -1,42 +1,55 @@
 # Sales Performance Analysis – Blinkit
 
 ## 📌 Project Overview
-This project analyzes Blinkit's sales performance using Excel.  
-The objective is to identify sales trends, top-performing products, customer purchasing behavior, and factors influencing revenue across categories and outlets. The dashboard provides clear business metrics to support data-driven decisions.
+This project analyzes Blinkit’s sales performance using Excel.  
+The aim is to understand sales trends, product performance, outlet-level contribution, and the key factors influencing revenue. The dashboard provides a clear, data-driven overview helpful for business decision-making.
+
+**Project Date:** September 2025
 
 ## 📂 Files in This Repository
-- **Blinkit_Sales_Data.xlsx** — Raw dataset used for analysis  
-- **dashboard_preview.png** — Dashboard screenshot
+- **BlinkIT Sales Data.xlsx** — Raw dataset used for cleaning and analysis  
+- **blinkit_dashboard.png** — Final dashboard screenshot (Excel dashboard)
 
 ## 🎯 Objectives
-- Evaluate total sales and revenue trends  
-- Identify top-performing products and categories  
-- Analyze customer purchasing patterns and peak sale times  
-- Highlight slow-moving SKUs for inventory optimization
+- Identify top-performing product categories  
+- Analyze sales distribution across outlets  
+- Understand customer buying patterns  
+- Monitor item visibility vs sales performance  
+- Highlight weak-performing SKUs  
 
 ## 🛠 Tools & Techniques Used
-**Excel:** Pivot Tables, Pivot Charts, Slicers, VLOOKUP/XLOOKUP, SUMIF/COUNTIF, Conditional Formatting, Data Cleaning, Basic Dashboard Design
+### **Excel**
+- Pivot Tables  
+- Pivot Charts  
+- Slicers  
+- Data Cleaning (duplicates, formatting, outliers)  
+- Lookup Formulas (VLOOKUP / XLOOKUP)  
+- Aggregation (SUMIF, COUNTIF, AVERAGEIF)  
+- Conditional Formatting  
+- Dashboard designing and KPIs
 
 ## 📊 Key Insights
-- Top 5 product categories contributed the majority of revenue  
-- Peak sales hours and days identified for focused promotions  
-- Certain SKUs consistently underperformed and were highlighted for review  
-- Outlet-level contribution shows concentration in a few high-performing locations
+- Major share of revenue comes from a few high-performing categories  
+- Item visibility and product placement directly influence sales  
+- Certain SKUs consistently underperform → candidates for review or discontinuation  
+- Outlet performance varies sharply, revealing strong vs weak markets  
 
-> *Note:* Replace or edit the above insights to match your dashboard specifics if you want to be more precise.
+*(If needed, I can reword insights based on your exact dashboard once you show me the preview.)*
 
 ## 💡 What This Project Demonstrates
-- Converting raw data into actionable business insights using Excel  
-- Strong competency in data cleaning, analysis, and dashboard creation  
-- Ability to present findings in a clear, recruiter-friendly format
+- Ability to clean and analyze raw data  
+- Strong Excel dashboarding skills  
+- Capability to extract business insights from transactional data  
+- Practical understanding of sales and FMCG analytics  
 
 ## 📈 Dashboard Preview
-(See `dashboard_preview.png` in this repository)
+(See **blinkit_dashboard.png** in this repository)
 
 ## 🗂 How to Reproduce
-1. Open `Blinkit_Sales_Data.xlsx` in Excel.  
-2. Use Pivot Tables / Slicers and Excel formulas (VLOOKUP/XLOOKUP, SUMIF) to summarize and analyze.  
-3. Build dashboard sheets using Pivot Charts and formatted tables.
+1. Open **BlinkIT Sales Data.xlsx**  
+2. Create Pivot Tables for category, outlet, and item-level analysis  
+3. Build a KPI sheet with cards, charts, and slicers  
+4. Format into a final dashboard (as shown in the screenshot)
 
 ## 📩 Contact
-For questions or requests, reach out via LinkedIn: [Tanushka Singh](https://www.linkedin.com/in/tanushka-singh-864696295)
+LinkedIn: [Tanushka Singh](https://www.linkedin.com/in/tanushka-singh-864696295)
